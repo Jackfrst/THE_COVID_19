@@ -1,6 +1,8 @@
 # the_covid_19
 
-A new Flutter application.
+A Flutter application that can act as a guide to prevent COVID and help you to recover from it.
+And servive the pendamic more efficiently.
+
 
 ## Getting Started
 
